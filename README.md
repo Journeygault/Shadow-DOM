@@ -1,4 +1,4 @@
-# Shadow-Dom
+# Shadow-DOM
 echo "# Shadow-Dom" >> README.md
 git init
 git add README.md

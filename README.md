@@ -1,1 +1,1 @@
-A simple demonstration of the JavaScript Template, HTML Shadow Dom and Modular JavaScript
+A simple demonstration of the JavaScript Template, HTML Shadow Dom and Modular JavaScript. The shadow DOM logic is exported from the components file to the to the logic file, where in 1 second intervals the current time is update on the clock.
